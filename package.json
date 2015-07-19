@@ -1,0 +1,14 @@
+{
+"name": "postOfficeServ",
+"version": "1.0.0",
+"description": "Sends email to a specific sender",
+"repository": {
+  "type": "git",
+  "url": "git@github.com:akendoffice/postOfficeServ.git"
+},
+"dependencies": {
+"nodemailer": "~0.7.1",
+"express": "~4.5.1"
+}
+
+}
