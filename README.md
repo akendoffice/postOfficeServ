@@ -1,4 +1,5 @@
 postOfficeServ Implementation v1.0
+It's a very simple implementation just for verifying how node mailer works
 Author : Arun Kumar
 
 First have nodejs installed in your machine
